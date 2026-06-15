@@ -1,7 +1,7 @@
 # Hi, I’m Mia
 
 
-I'm currently a Digital Curator at the British Library and Head of Service for the [Museum Data Service](https://museumdata.uk/). Along the way I've gained degrees and professional international experience as a web and database developer, digital consultant and UX researcher. I love working on open source technologies and open data, especially in museums, libraries, and archives.
+I'm currently a Digital Curator at the British Library and Head of Service for the [Museum Data Service](https://museumdata.uk/). Formerly lead web developer, Science Museum Group. Along the way I've gained degrees and professional international experience as a web and database developer, digital consultant and UX researcher. I love working on open source technologies and open data, especially in museums, libraries, and archives.
 
 ---
 ### Currently working on
